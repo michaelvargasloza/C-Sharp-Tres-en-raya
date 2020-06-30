@@ -1,0 +1,15 @@
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\TresEnRaya\obj\Debug\TresEnRaya.csprojResolveAssemblyReference.cache
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\TresEnRaya\obj\Debug\TresEnRaya.pdb
+C:\Users\Michael Vargas Loza\Desktop\TresEnRaya\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\Users\Michael Vargas Loza\Desktop\TresEnRaya\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\Users\Michael Vargas Loza\Desktop\TresEnRaya\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
+C:\@res\Otros\Total Radio Systems\Software\TresEnRaya\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\@res\Otros\Total Radio Systems\Software\TresEnRaya\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\@res\Otros\Total Radio Systems\Software\TresEnRaya\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
+C:\@res\Otros\Total Radio Systems\Software\TresEnRaya\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\@res\Otros\Total Radio Systems\Software\TresEnRaya\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\@res\Otros\Total Radio Systems\Software\TresEnRaya\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csprojResolveAssemblyReference.cache
